@@ -1,0 +1,17 @@
+{
+ 	"name": "Java Beginner Course",
+        "category": "JAVA_BEGINNER",
+        "startDate": "2023-07-01",
+        "endDate": "2023-07-31",
+        "fee": 100.0
+}
+
+{
+
+  	"name": "Java Advanced Course",
+        "category": "JAVA_ADVANCED",
+        "startDate": "2023-08-01",
+        "endDate": "2023-08-31",
+        "fee": 150.0
+
+}
